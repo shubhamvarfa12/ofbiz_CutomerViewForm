@@ -1,5 +1,0 @@
-		<form action="AddOfbizDemoFtl">
-                  <label for="partyid">Party ID:</label>
-                   <input type="text" id="partyid" name="PartyId"><br><br>
-                  <input type="submit" value="Submit">
-               </form>
